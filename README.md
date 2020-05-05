@@ -6,3 +6,7 @@ Functions: -
 2. wavefront obj load and texture loading.
 3. Lighting.
 4. keyboard inputs.
+
+### Installation
+
+Open the sln file in visaul studio and run the application...
